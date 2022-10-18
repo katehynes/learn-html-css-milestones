@@ -25,3 +25,10 @@ pre {
 pre code {
   white-space: pre-line;
 }
+
+.col-sm {
+  background-color: pink;
+}
+.col-4-lg {
+  background-color: green;
+}
